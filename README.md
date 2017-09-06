@@ -8,7 +8,7 @@ UIKit
 When the notification UIKeyboardWillShowNotification is received the userInfo object contains incorrect value - it has NSRect instead of CGRectValue.
 
 ## Steps to reproduce:
-1. Launch the project https://drive.google.com/a/mindmarker.com/file/d/0B64y7MtNpEyVVVhDekdVRmRhc1E/view?usp=sharing .
+1. Launch the project.
 2. See logs.
 
 ## Expected Results:
